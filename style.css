@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+}
+
+header {
+    background-color: #0a4da3;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #083b7c;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    padding: 40px;
+    text-align: center;
+    background: white;
+}
+
+.hero button {
+    padding: 10px 20px;
+    background-color: #0a4da3;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.contact {
+    background-color: #e9eef5;
+    padding: 30px;
+    text-align: center;
+}
+
+.contact input {
+    display: block;
+    width: 250px;
+    margin: 10px auto;
+    padding: 8px;
+}
+
+.contact button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
